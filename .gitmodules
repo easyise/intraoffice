@@ -1,0 +1,3 @@
+[submodule "dockerfiles"]
+	path = dockerfiles
+	url = https://easyise@github.com/easyise/dockerfiles-eiseIntra
