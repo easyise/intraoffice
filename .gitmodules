@@ -1,3 +1,15 @@
 [submodule "dockerfiles"]
 	path = dockerfiles
 	url = https://easyise@github.com/easyise/dockerfiles-eiseIntra
+[submodule "htdocs/vendor/eiseIntra"]
+	path = htdocs/vendor/eiseIntra
+	url = https://easyise@github.com/easyise/eiseIntra
+[submodule "htdocs/vendor/eiseMail"]
+	path = htdocs/vendor/eiseMail
+	url = https://easyise@github.com/easyise/eiseMail
+[submodule "htdocs/vendor/eiseREST"]
+	path = htdocs/vendor/eiseREST
+	url = https://easyise@github.com/easyise/eiseREST
+[submodule "htdocs/vendor/eiseXLSX"]
+	path = htdocs/vendor/eiseXLSX
+	url = https://easyise@github.com/easyise/eiseXLSX
